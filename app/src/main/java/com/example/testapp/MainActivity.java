@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
 
         // Input validation
         if (message.isEmpty() || ip.isEmpty()) {
-            Toast.makeText(this, "Bitte Nachricht und IP-Adresse eingeben", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Please Input Message and IP Address", Toast.LENGTH_SHORT).show();
             return;
         }
 

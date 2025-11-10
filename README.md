@@ -1,4 +1,4 @@
-# TestApp - Android TCP Messaging Client
+# <img src="../docs/images/calcifer.jpg" width="40" height="40"/> TestApp - Android TCP Messaging Client
 
 ## Overview
 **TestApp** is a simple Android application that allows users to send text messages over TCP to a specified server IP address.  
@@ -16,7 +16,10 @@ The app is designed to demonstrate basic network communication and asynchronous 
 ---
 
 ## Screenshots
-
+<p align="center">
+  <img src="../docs/images/app_screen.jpg" width="300" alt="App screenshot"/>
+</p>
+*Screenshot of the app interface*
 
 ---
 
