@@ -1,0 +1,39 @@
+# Gradle
+.gradle/
+build/
+*/build/
+!gradle-wrapper.jar
+.gradle/
+local.properties
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Log-Dateien
+*.log
+
+# Android specific
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.ap_
+*.dex
+
+# Keystore-Dateien (z. B. für Release-Signatur – NIEMALS hochladen!)
+*.jks
+*.keystore
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# NDK / CMake
+obj/
+
+# Misc
+/.navigation/
+*.hprof
